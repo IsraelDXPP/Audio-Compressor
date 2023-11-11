@@ -68,5 +68,4 @@ set SPEED_SETTINGS=-filter:a "atempo=1"
 :: Ejecuta ffmpeg con los parámetros especificados en segundo plano
 start /b "" "%CD%\ffmpeg.exe" -i %INPUT% -preset %PRESET% -c:a libopus -b:a %AUDIO_BITRATE% %EQ_SETTINGS% %REVERB_SETTINGS% %BASS_SETTINGS% %TREBLE_SETTINGS% %VOLUME_SETTINGS% %NORMALIZE_SETTINGS% %SPEED_SETTINGS% "%OUTPUT%"
 
-:: Espera un momento antes de salir (puedes ajustar el tiempo según sea necesario)
 timeout /nobreak /t 2 >nul
