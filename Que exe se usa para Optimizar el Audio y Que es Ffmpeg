@@ -1,0 +1,18 @@
+Pagina al Exe que se usa para Optimizar los Audios:https://www.ffmpeg.org el exe usado es ffmpeg.exe ¿Que es ffmpeg? : 
+FFmpeg es una herramienta de software libre y de código abierto que se utiliza para manejar y convertir archivos multimedia. La palabra "FFmpeg" proviene de "Fast Forward MPEG", lo que refleja su capacidad original para procesar y convertir archivos de video en el formato MPEG. Sin embargo, a lo largo del tiempo, FFmpeg se ha expandido para admitir una amplia gama de formatos y funciones multimedia.
+
+Las características clave de FFmpeg incluyen:
+
+Conversión de Formatos: Permite la conversión entre diferentes formatos de audio y video. Puede transformar archivos de un formato a otro.
+
+Streaming de Multimedia: Facilita la transmisión de contenido multimedia en tiempo real a través de protocolos de transmisión.
+
+Edición de Multimedia: Ofrece herramientas para realizar operaciones de edición en archivos multimedia, como recorte, unión de clips, ajuste de velocidad, entre otras.
+
+Grabación y Captura: Puede capturar y grabar audio y video desde diversas fuentes, como cámaras web y tarjetas de captura.
+
+Manipulación de Metadatos: Permite la manipulación de información relacionada con el contenido multimedia, como etiquetas y metadatos.
+
+Transcodificación: Realiza la transcodificación de archivos multimedia para adaptarse a diferentes códecs y parámetros.
+
+Herramientas de Filtrado: Ofrece una amplia variedad de filtros y efectos que se pueden aplicar durante la conversión o edición.
